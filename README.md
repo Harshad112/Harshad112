@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshad Yelpale
-- 👀 I’m devops
+- 👀 I’m intrested in DevOps
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on kubernets
 - 📫 How to reach me -harshadyelpale4752@gmail.com
