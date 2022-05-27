@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harshad112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harshad Yelpale
+- 👀 I’m devops
+- 🌱 I’m currently learning DSA 
+- 💞️ I’m looking to collaborate on kubernets
+- 📫 How to reach me -harshadyelpale4752@gmail.com
 
 <!---
 Harshad112/Harshad112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
